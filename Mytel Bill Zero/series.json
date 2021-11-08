@@ -1,0 +1,30 @@
+[
+
+
+{
+"number":"1",
+"movietitle":"Tale of the Nine Tailed (2020)(series)",
+"link json":"tale_of_the_nine_tailed_link.json",
+"main json":"tale_of_the_nine_tailed_main.json"},
+
+
+{
+"number":"2",
+"movietitle":"Mr.Queen (2020)(series)",
+"link json":"mrqueen_link.json",
+"main json":"mrqueen_main.json"},
+
+
+{
+"number":"3",
+"movietitle":"Train (2020)(series)",
+"link json":"train_link.json",
+"main json":"train_main.json"},
+
+{
+"number":"4",
+"movietitle":"My Name (2021)(series)",
+"link json":"myname_link.json",
+"main json":"myname_main.json"}
+
+]
