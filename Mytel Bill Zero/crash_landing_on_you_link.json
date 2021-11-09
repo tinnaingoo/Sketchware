@@ -1,32 +1,34 @@
-Ep1
-https://mycinema.🇰🇷asia/media/series/Crash.Landing.on.You.2019/ep1_720/ep1_720.m3u8
-Ep2
-https://mycinema.🇰🇷asia/media/series/Crash.Landing.on.You.2019/ep2_720/ep2_720.m3u8
-Ep3
-https://mycinema.🇰🇷asia/media/series/Crash.Landing.on.You.2019/ep3_720/ep3_720.m3u8
-Ep4
-https://mycinema.🇰🇷asia/media/series/Crash.Landing.on.You.2019/ep4_720/ep4_720.m3u8
-Ep5
-https://mycinema.🇰🇷asia/media/series/Crash.Landing.on.You.2019/ep5_720/ep5_720.m3u8
-Ep6
-https://mycinema.🇰🇷asia/media/series/Crash.Landing.on.You.2019/ep6_720/ep6_720.m3u8
-Ep7
-https://mycinema.🇰🇷asia/media/series/Crash.Landing.on.You.2019/ep7_720/ep7_720.m3u8
-Ep8
-https://mycinema.🇰🇷asia/media/series/Crash.Landing.on.You.2019/ep8_720/ep8_720.m3u8
-Ep9
-https://mycinema.🇰🇷asia/media/series/Crash.Landing.on.You.2019/ep9_720/ep9_720.m3u8
-Ep10
-https://mycinema.🇰🇷asia/media/series/Crash.Landing.on.You.2019/ep10_720/ep10_720.m3u8
-Ep11
-https://mycinema.🇰🇷asia/media/series/Crash.Landing.on.You.2019/ep11_720/ep11_720.m3u8
-Ep12
-https://mycinema.🇰🇷asia/media/series/Crash.Landing.on.You.2019/ep12_720/ep12_720.m3u8
-Ep13
-https://mycinema.🇰🇷asia/media/series/Crash.Landing.on.You.2019/ep13_720/ep13_720.m3u8
-Ep14
-https://mycinema.🇰🇷asia/media/series/Crash.Landing.on.You.2019/ep14_720/ep14_720.m3u8
-Ep15
-https://mycinema.🇰🇷asia/media/series/Crash.Landing.on.You.2019/ep15_720/ep15_720.m3u8
-Ep16end
-https://mycinema.🇰🇷asia/media/series/Crash.Landing.on.You.2019/ep16_720/ep16_720.m3u8
+[
+  {"part":"အပိုင်း(၁)",
+   "url":"https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep1_720/ep1_720.m3u8"},
+  {"part":"အပိုင်း(၂)",
+   "url":"https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep2_720/ep2_720.m3u8"},
+  {"part":"အပိုင်း(၃)",
+   "url":"https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep3_720/ep3_720.m3u8"},
+  {"part":"အပိုင်း(၄)",
+   "url":"https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep4_720/ep4_720.m3u8"},
+  {"part":"အပိုင်း(၅)",
+   "url":"https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep5_720/ep5_720.m3u8"},
+  {"part":"အပိုင်း(၆)",
+   "url":"https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep6_720/ep6_720.m3u8"},
+  {"part":"အပိုင်း(၇)",
+   "url":"https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep7_720/ep7_720.m3u8"},
+  {"part":"အပိုင်း(၈)",
+   "url":"https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep8_720/ep8_720.m3u8"},
+  {"part":"အပိုင်း(၉)",
+   "url":"https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep9_720/ep9_720.m3u8"},
+  {"part":"အပိုင်း(၁၀)",
+   "url":"https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep10_720/ep10_720.m3u8"},
+  {"part":"အပိုင်း(၁၁)",
+   "url":"https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep11_720/ep11_720.m3u8"},
+  {"part":"အပိုင်း(၁၂)",
+   "url":"https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep12_720/ep12_720.m3u8"},
+  {"part":"အပိုင်း(၁၃)",
+   "url":"https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep13_720/ep13_720.m3u8"},
+  {"part":"အပိုင်း(၁၄)",
+   "url":"https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep14_720/ep14_720.m3u8"},
+  {"part":"အပိုင်း(၁၅)",
+   "url":"https://mycinema.asia/media/series/Crash.Landing.on.You.2019/ep15_720/ep15_720.m3u8"},
+  {"part":"အပိုင်း(၁၆)(ဇာတ်သိမ်းပိုင်း)",
+   "url":"https://mmycinema.asia/media/series/Crash.Landing.on.You.2019/ep16_720/ep16_720.m3u8"}
+  ]
