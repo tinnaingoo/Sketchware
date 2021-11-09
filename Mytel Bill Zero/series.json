@@ -31,6 +31,12 @@
 "number":"5",
 "movietitle":"Alice in Borderland(2020)",
 "link json":"alice_in_borderland_link.json",
-"main json":"alice_in_borderland_main.json"}
+"main json":"alice_in_borderland_main.json"},
+ 
+ {
+"number":"6",
+"movietitle":"Vincenzo(2021)",
+"link json":"vincenzo_link.json",
+"main json":"vincenzo_main.json"}
 
 ]
