@@ -1,66 +1,34 @@
 [
-{
-"part":"အပိုင်း(၁)",
-"url":"https://mycinema.asia/media/series/Alice/Alice_ep1_720/Alice_ep1_720.m3u8"
-},
-{
-"part":"အပိုင်း(၂)",
-"url":"https://mycinema.asia/media/series/Alice/Alice_ep2_720/Alice_ep2_720.m3u8"
-},
-{
-"part":"အပိုင်း(၃)",
-"url":"https://mycinema.asia/media/series/Alice/Alice_ep3_720/Alice_ep3_720.m3u8"
-},
-{
-"part":"အပိုင်း(၄)",
-"url":"https://mycinema.asia/media/series/Alice/Alice_ep4_720/Alice_ep4_720.m3u8"
-}, 
-{
-"part":"အပိုင်း(၅)",
-"url":"https://mycinema.asia/media/series/Alice/Alice_ep5_720/Alice_ep5_720.m3u8"
-},
-{
-"part":"အပိုင်း(၆)",
-"url":"https://mycinema.asia/media/series/Alice/Alice_ep6_720/Alice_ep6_720.m3u8"
-}, 
-{
-"part":"အပိုင်း(၇)",
-"url" : "https://mycinema.asia/media/series/Alice/Alice_ep7_720/Alice_ep7_720.m3u8"
-},
-{
-"part":"အပိုင်း(၈)",
-"url":"https://mycinema.asia/media/series/Alice/Alice_ep8_720/Alice_ep8_720.m3u8"
-}, 
-{
-"part":"အပိုင်း(၉)",
-"url":"https://mycinema.asia/media/series/Alice/Alice_ep9_720/Alice_ep9_720.m3u8"
-}, 
-{
-"part":"အပိုင်း(၁၀)",
-"url":"https://mycinema.asia/media/series/Alice/Alice_ep10_720/Alice_ep10_720.m3u8"
-},
-{
-"part":"အပိုင်း(၁၁)",
-"url":"https://mycinema.asia/media/series/Alice/Alice_ep11_720/Alice_ep11_720.m3u8"
-},
-{
-"part":"အပိုင်း(၁၂)",
-"url":"https://mycinema.asia/media/series/Alice/Alice_ep12_720/Alice_ep12_720.m3u8"
-},
-{
-"part":"အပိုင်း(၁၃)",
-"url":"https://mycinema.asia/media/series/Alice/Alice_ep13_720/Alice_ep13_720.m3u8"
-},
-{
-"part":"အပိုင်း(၁၄)",
-"url":"https://mycinema.asia/media/series/Alice/Alice_ep14_720/Alice_ep14_720.m3u8"
-},
-{
-"part":"အပိုင်း(၁၅)",
-"url" : "https://mycinema.asia/media/series/Alice/Alice_ep15_720/Alice_ep15_720.m3u8"
-}, 
-{
-"part":"အပိုင်း(၁၆)(ဇာတ်သိမ်းပိုင်း)",
-"url":"https://mycinema.asia/media/series/Alice/Alice_ep16_720/Alice_ep16_720.m3u8"
-}
+ {"part":"အပိုင်း(၁)",
+  "url":"https://mycinema.asia/media/series/Alice/Alice_ep1_720/Alice_ep1_720.m3u8"},
+ {"part":"အပိုင်း(၂)",
+  "url":"https://mycinema.asia/media/series/Alice/Alice_ep2_720/Alice_ep2_720.m3u8"},
+ {"part":"အပိုင်း(၃)",
+  "url":"https://mycinema.asia/media/series/Alice/Alice_ep3_720/Alice_ep3_720.m3u8"},
+ {"part":"အပိုင်း(၄)",
+  "url":"https://mycinema.asia/media/series/Alice/Alice_ep4_720/Alice_ep4_720.m3u8"},
+ {"part":"အပိုင်း(၅)",
+  "url":"https://mycinema.asia/media/series/Alice/Alice_ep5_720/Alice_ep5_720.m3u8"},
+ {"part":"အပိုင်း(၆)",
+  "url":"https://mycinema.asia/media/series/Alice/Alice_ep6_720/Alice_ep6_720.m3u8"}, 
+ {"part":"အပိုင်း(၇)",
+  "url" : "https://mycinema.asia/media/series/Alice/Alice_ep7_720/Alice_ep7_720.m3u8"},
+ {"part":"အပိုင်း(၈)",
+  "url":"https://mycinema.asia/media/series/Alice/Alice_ep8_720/Alice_ep8_720.m3u8"}, 
+ {"part":"အပိုင်း(၉)",
+  "url":"https://mycinema.asia/media/series/Alice/Alice_ep9_720/Alice_ep9_720.m3u8"}, 
+ {"part":"အပိုင်း(၁၀)",
+  "url":"https://mycinema.asia/media/series/Alice/Alice_ep10_720/Alice_ep10_720.m3u8"},
+ {"part":"အပိုင်း(၁၁)",
+  "url":"https://mycinema.asia/media/series/Alice/Alice_ep11_720/Alice_ep11_720.m3u8"},
+ {"part":"အပိုင်း(၁၂)",
+  "url":"https://mycinema.asia/media/series/Alice/Alice_ep12_720/Alice_ep12_720.m3u8"},
+ {"part":"အပိုင်း(၁၃)",
+  "url":"https://mycinema.asia/media/series/Alice/Alice_ep13_720/Alice_ep13_720.m3u8"},
+ {"part":"အပိုင်း(၁၄)",
+  "url":"https://mycinema.asia/media/series/Alice/Alice_ep14_720/Alice_ep14_720.m3u8"},
+ {"part":"အပိုင်း(၁၅)",
+  "url" : "https://mycinema.asia/media/series/Alice/Alice_ep15_720/Alice_ep15_720.m3u8"}, 
+ {"part":"အပိုင်း(၁၆)(ဇာတ်သိမ်းပိုင်း)",
+  "url":"https://mycinema.asia/media/series/Alice/Alice_ep16_720/Alice_ep16_720.m3u8"}
  ]
