@@ -55,5 +55,12 @@
   "movietitle":"Alice in Borderland",
   "link json":"alic_link.json",
   "main json":"alic_main.json"
-}
+},
+{
+  "no":"9",
+  "imgurl":"https://mycinema.asia/image/avatar_1671.jpg",
+  "year":"2020",
+  "movietitle":"Itaewon Class",
+  "link json":"itaewon_link.json",
+  "main json":"itaewon_main.json"}
 ]
