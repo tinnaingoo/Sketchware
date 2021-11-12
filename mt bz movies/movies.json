@@ -69,5 +69,12 @@
   "year":"2021",
   "movietitle":"Hometown Cha-Cha-Cha",
   "link json":"hometown_link.json",
-  "main json":"hometown_main.json"}
+  "main json":"hometown_main.json"}.
+{
+  "no":"11",
+  "imgurl":"https://mycinema.asia/image/avatar_1591.jpg",
+  "year":"2019",
+  "movietitle":"Crash Landing on You",
+  "link json":"crash_link.json",
+  "main json":"crash_main.json"}
 ]
