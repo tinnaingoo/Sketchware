@@ -62,5 +62,12 @@
   "year":"2020",
   "movietitle":"Itaewon Class",
   "link json":"itaewon_link.json",
-  "main json":"itaewon_main.json"}
+  "main json":"itaewon_main.json"},
+{
+  "no":"10",
+  "imgurl":"https://mycinema.asia/image/avatar_7801.jpg",
+  "year":"2021",
+  "movietitle":"Hometown Cha-Cha-Cha",
+  "link json":"hometown_link.json",
+  "main json":"hometown_main.json"}
 ]
