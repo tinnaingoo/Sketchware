@@ -1,13 +1,11 @@
 [
-{
-  "no":"1",
-  "imgurl":"https://mycinema.asia/image/avatar_7987.jpg",
-  "year":"2021",
-  "movietitle":"Sanak",
-  "link json":"sanak_link.json",
-  "main json":"sanak_main.json"},
-{
-  "no":"2",
+{"no":"1",
+"imgurl":"https://mycinema.asia/image/avatar_7987.jpg",
+"year":"2021",
+"movietitle":"Sanak",
+"link json":"sanak_link.json",
+"main json":"sanak_main.json"},
+{"no":"2",
   "imgurl":"https://mycinema.asia/image/avatar_7965.jpg",
   "year":"2021",
   "movietitle":"Injustice",
