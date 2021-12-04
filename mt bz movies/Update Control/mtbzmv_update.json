@@ -1,7 +1,5 @@
-[
-  {"Version":"1.0",
-   "Update Staus":"Need to Update",
-   "Title":"You Need to Update",
-   "Message":"Neew Add 20 Video",
-   "Download Link":"www.google.com"}
-  ]
+[{
+"Version":"1.0",
+"Title":"Appupdate",
+"Message":"This Application is need to update",
+"UpdateUrl":"Url"}]
