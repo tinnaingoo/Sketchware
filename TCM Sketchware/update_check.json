@@ -1,6 +1,8 @@
 [{
-"Version":"1.0",
+"Version":"1.1",
 "Title":"Update Now",
 "Message":"Need to Update!\n(Version 1.1)",
+"DB1":"Play store",
 "UpdateUrlP":"https://play.google.com/store/apps/details?id=com.tinnaingoo.psddownload",
+"DB2":"MediaFire",
 "UpdateUrlM":"https://play.google.com/store/apps/details?id=com.tinnaingoo.psddownload"}]
